@@ -20,7 +20,7 @@
       "position": "Software architect",
       "url": "https://www.corilus.be/",
       "startDate": "2023-01-01",
-      "summary": "Creating web applications for healthcare professionals, technical architect over multiple teams on the same project",
+      "summary": "Creating web applications for healthcare professionals, software architect over multiple teams on the same project",
       "highlights": ["AWS", "Serverless"]
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "name": "Into.care",
-      "position": "Software developer",
+      "position": "Software engineer",
       "startDate": "2018-08-01",
       "endDate": "2020-01-01",
       "summary": "Creating web applications for healthcare professionals, helping the startup to grow. This project was later sold to `corilus`",
@@ -46,11 +46,11 @@
       "institution": "HoGent",
       "location": "Ghent, Belgium",
       "url": "https://www.hogent.be/",
-      "area": "Software Development",
-      "studyType": "Graduate",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
       "startDate": "2015",
       "endDate": "2018",
-      "courses": ["Web Development", "Mobile Development", "Databases"]
+      "courses": ["Web Development", "Mobile Development", "Databases", "..."]
     }
   ],
   "skills": [
@@ -58,7 +58,7 @@
       "name": "AWS",
       "level": "Master",
       "icon": "fa-brands fa-aws",
-      "keywords": ["AWS", "AWS Lambda", "Api Gateway", "CloudFront", "S3", "Dynamodb", "RDS", "Step functions", "..."]
+      "keywords": ["Lambda", "Api Gateway", "CloudFront", "S3", "Dynamodb", "RDS", "Step functions", "Glue", "..."]
     },
     {
       "name": "Testing",
@@ -87,7 +87,7 @@
     {
       "name": "Typescript",
       "level": "Master",
-      "icon": "fa-brands fa-typescript",
+      "icon": "fa-solid fa-hashtag",
       "keywords": []
     },
     {
@@ -95,6 +95,16 @@
       "level": "Master",
       "icon": "fa-brands fa-angular",
       "keywords": ["NX", "Monorepo"]
+    },
+    {
+      "name": "Rust",
+      "level": "Intermediate",
+      "icon": "fa-brands fa-rust"
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "icon": "fa-brands fa-react"
     }
   ],
   "languages": [
