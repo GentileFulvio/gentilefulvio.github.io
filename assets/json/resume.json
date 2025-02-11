@@ -4,7 +4,6 @@
     "label": "Sotware architect",
     "image": "",
     "email": "gentilefulvio1006@gmail.com",
-    "url": "https://gentilefulvio.github.io",
     "summary": "A belgian technology enthousiast in love with programming and web development",
     "profiles": [
       {
@@ -58,7 +57,7 @@
       "name": "AWS",
       "level": "Master",
       "icon": "fa-brands fa-aws",
-      "keywords": ["Lambda", "Api Gateway", "CloudFront", "S3", "Dynamodb", "RDS", "Step functions", "Glue", "..."]
+      "keywords": ["Lambda", "Api Gateway", "CloudFront", "S3", "Dynamodb", "RDS", "Step functions", "Glue", "ECS", "Fargate", "..."]
     },
     {
       "name": "Testing",
@@ -76,7 +75,7 @@
       "name": "Nodejs",
       "level": "Master",
       "icon": "fa-brands fa-node",
-      "keywords": []
+      "keywords": ["Typescript", "Scripting", "Serverless", "Express", "Nestjs"]
     },
     {
       "name": "Javascript",
@@ -85,9 +84,44 @@
       "keywords": []
     },
     {
-      "name": "Typescript",
+      "name": "Rust",
+      "level": "Intermediate",
+      "icon": "fa-brands fa-rust"
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "icon": "fa-brands fa-python",
+      "keywords": ["Scripting", "Glue", "Spark"]
+    },
+    {
+      "name": "C#",
+      "level": "Intermediate",
+      "icon": "fa-brands fa-csharp",
+      "keywords": ["Net Core"]
+    },
+    {
+      "name": "java",
+      "level": "Intermediate",
+      "icon": "fa-brands fa-java",
+      "keywords": ["Spring"]
+    },
+    {
+      "name": "Docker",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-brands fa-docker",
+      "keywords": ["Containers on AWS", "Dockerfile"]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "icon": "fa-brands fa-html5",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "icon": "fa-brands fa-css3",
       "keywords": []
     },
     {
@@ -95,16 +129,6 @@
       "level": "Master",
       "icon": "fa-brands fa-angular",
       "keywords": ["NX", "Monorepo"]
-    },
-    {
-      "name": "Rust",
-      "level": "Intermediate",
-      "icon": "fa-brands fa-rust"
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "icon": "fa-brands fa-react"
     }
   ],
   "languages": [
@@ -132,7 +156,7 @@
   "interests": [
     {
       "name": "Software development",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-code",
       "keywords": []
     },
     {
