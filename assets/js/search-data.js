@@ -17,13 +17,6 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%67%65%6E%74%69%6C%65%66%75%6C%76%69%6F%31%30%30%36@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
