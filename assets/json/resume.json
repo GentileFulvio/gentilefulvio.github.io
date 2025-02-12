@@ -97,19 +97,19 @@
       "name": "C#",
       "level": "Intermediate",
       "icon": "fa-brands fa-csharp",
-      "keywords": ["Net Core"]
+      "keywords": []
     },
     {
       "name": "java",
       "level": "Intermediate",
       "icon": "fa-brands fa-java",
-      "keywords": ["Spring"]
+      "keywords": []
     },
     {
       "name": "Docker",
       "level": "Master",
       "icon": "fa-brands fa-docker",
-      "keywords": ["Containers on AWS", "Dockerfile"]
+      "keywords": []
     },
     {
       "name": "HTML",
@@ -127,7 +127,7 @@
       "name": "Angular",
       "level": "Master",
       "icon": "fa-brands fa-angular",
-      "keywords": ["NX", "Monorepo"]
+      "keywords": []
     }
   ],
   "languages": [
