@@ -14,12 +14,20 @@
   },
   "work": [
     {
+      "name": "Qargo",
+      "position": "Senior software engineer",
+      "url": "https://www.qargo.com/",
+      "startDate": "2026-03-30",
+      "summary": "Creating the next generation TMS platform",
+      "highlights": ["GCP", "Django", "FastAPI", "Python"]
+    },
+    {
       "name": "Corilus",
       "position": "Software architect",
       "url": "https://www.corilus.be/",
       "startDate": "2023-01-01",
       "summary": "Creating web applications for healthcare professionals, software architect over multiple teams on the same project",
-      "highlights": ["AWS", "Serverless"]
+      "highlights": ["AWS", "Serverless", "Typescript"]
     },
     {
       "name": "Corilus",
@@ -28,7 +36,7 @@
       "startDate": "2020-01-01",
       "endDate": "2023-01-01",
       "summary": "Creating web applications for healthcare professionals, leading a team of developers",
-      "highlights": ["AWS", "Serverless"]
+      "highlights": ["AWS", "Serverless", "Typescript"]
     },
     {
       "name": "Into.care",
@@ -36,7 +44,7 @@
       "startDate": "2018-08-01",
       "endDate": "2020-01-01",
       "summary": "Creating web applications for healthcare professionals, helping the startup to grow. This project was later sold to `corilus`",
-      "highlights": ["AWS", "Serverless"]
+      "highlights": ["AWS", "Serverless", "Typescript"]
     }
   ],
   "education": [
